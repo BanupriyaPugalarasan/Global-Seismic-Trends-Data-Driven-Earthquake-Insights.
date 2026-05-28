@@ -1,6 +1,7 @@
 # 🌍 Global-Seismic-Trends-Data-Driven-Earthquake-Insights.
 
-🌍 project Over view:
+🌍 Project Over view:
+
 This project is a complete Earthquake Data Analysis system built using:
   1.python🐍
   2.MySQL 💻
